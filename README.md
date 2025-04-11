@@ -1,8 +1,8 @@
-# IoT Scout
+# IoT Scout GO
 
 IoT Scout is a powerful tool designed for analyzing IoT devices and firmware, focusing on security assessment and information gathering. It provides capabilities for live UART analysis, firmware examination, and sensitive information detection.
 
-![IoT Scout Banner](docs/banner.png)
+![IoT Scout Banner](images/iotscout-go.png)
 
 ## Features
 
